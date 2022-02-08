@@ -1,0 +1,22 @@
+{
+    "meta_data": {
+        "Content Type": "Bible",
+        "Public Domain": "Yes",
+        "Version Name(in Eng)": "Punjabi - Indian Revised Version",
+        "Version Name(in GL)": "\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40 - \u0a2d\u0a3e\u0a30\u0a24\u0a40 \u0a38\u0a4b\u0a27\u0a3f\u0a06 \u0a39\u0a4b\u0a07\u0a06 \u0a38\u0a70\u0a38\u0a15\u0a30\u0a23",
+        "Abbreviation": "PAN-IRV",
+        "Language Name": "Punjabi",
+        "Language Code": "PAN",
+        "Publishing Year": "2019",
+        "Source (Name & Year)": "Wycliffe Associates - 2017",
+        "Revision (Name & Year)": "unfoldingWord - 2018",
+        "OT URL": "https://git.door43.org/BCS-BIBLE/PUNJABI-ULB-OT.BCS",
+        "NT URL": "https://git.door43.org/BCS-BIBLE/Punjabi-ULB-NT.BCS",
+        "License": "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+        "License URL": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "Description": "Revision of existing public domain bible 1945",
+        "Copyright Holder": "Unfolding Word",
+        "Technology Partner": "Bridge Connectivity Solutions",
+        "Contact": "info@bridgeconn.com"
+    }
+}

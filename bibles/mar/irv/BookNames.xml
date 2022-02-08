@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BookNames>
+  <book code="MAT" abbr="मत्त." short="मत्त." long="मत्तयकृत शुभवर्तमान" />
+  <book code="MRK" abbr="मार्क" short="मार्क" long="मार्ककृत शुभवर्तमान" />
+  <book code="LUK" abbr="लूक" short="लूक" long="लूककृत शुभवर्तमान" />
+  <book code="ACT" abbr="प्रेषि." short="प्रेषि." long="प्रेषितांची कृत्ये" />
+  <book code="EPH" abbr="इफि." short="इफि." long="इफिसकरांस पत्र" />
+  <book code="1TH" abbr="1 थेस्स." short="1 थेस्स." long="थेस्सलनीकाकरांस पहिले पत्र" />
+  <book code="2TH" abbr="2 थेस्स." short="2 थेस्स." long="थेस्सलनीकाकरांस दुसरे पत्र" />
+  <book code="1TI" abbr="1 तीम." short="1 तीम." long="तीमथ्याला पहिले पत्र" />
+  <book code="2TI" abbr="2 तीम." short="2 तीम." long="तीमथ्याला दुसरे पत्र" />
+  <book code="TIT" abbr="तीत." short="तीत." long="तीताला पत्र" />
+  <book code="REV" abbr="प्रक." short="प्रक." long="प्रकटीकरण" />
+  <book code="GEN" abbr="उत्प." short="उत्प." long="उत्पत्ति" />
+  <book code="EXO" abbr="निर्ग." short="निर्ग." long="निर्गम" />
+  <book code="LEV" abbr="लेवी." short="लेवी." long="लेवीय" />
+  <book code="NUM" abbr="गण." short="गण." long="गणना" />
+  <book code="DEU" abbr="अनु." short="अनु." long="अनुवाद" />
+  <book code="JOS" abbr="यहो." short="यहो." long="यहोशवा" />
+  <book code="JDG" abbr="शास्ते" short="शास्ते" long="शास्ते" />
+  <book code="RUT" abbr="रूथ" short="रूथ" long="रूथ" />
+  <book code="1SA" abbr="1 शमु." short="1 शमु." long="1 शमुवेल" />
+  <book code="2SA" abbr="2 शमु." short="2 शमु." long="2 शमुवेल" />
+  <book code="1KI" abbr="1 राजे" short="1 राजे" long="1 राजे" />
+  <book code="2KI" abbr="2 राजे" short="2 राजे" long="2 राजे" />
+  <book code="1CH" abbr="1 इति." short="1 इति." long="1 इतिहास" />
+  <book code="2CH" abbr="2 इति." short="2 इति." long="2 इतिहास" />
+  <book code="EZR" abbr="एज्रा" short="एज्रा" long="एज्रा" />
+  <book code="NEH" abbr="नहे." short="नहे." long="नहेम्या" />
+  <book code="EST" abbr="एस्ते." short="एस्ते." long="एस्तेर" />
+  <book code="JOB" abbr="ईयो." short="ईयो." long="ईयोब" />
+  <book code="PSA" abbr="स्तोत्र." short="स्तोत्र." long="स्तोत्रसंहिता" />
+  <book code="PRO" abbr="नीति." short="नीति." long="नीतिसूत्रे" />
+  <book code="ECC" abbr="उप." short="उप." long="उपदेशक" />
+  <book code="SNG" abbr="गीत." short="गीत." long="गीतरत्न" />
+  <book code="ISA" abbr="यश." short="यश." long="यशया" />
+  <book code="JER" abbr="यिर्म." short="यिर्म." long="यिर्मया" />
+  <book code="LAM" abbr="विला." short="विला." long="विलापगीत" />
+  <book code="EZK" abbr="यहे." short="यहे." long="यहेज्केल" />
+  <book code="DAN" abbr="दानि." short="दानि." long="दानिएल" />
+  <book code="HOS" abbr="होशे." short="होशे." long="होशेय" />
+  <book code="JOL" abbr="योए." short="योए." long="योएल" />
+  <book code="AMO" abbr="आमो." short="आमो." long="आमोस" />
+  <book code="OBA" abbr="ओब." short="ओब." long="ओबद्या" />
+  <book code="JON" abbr="योना" short="योना" long="योना" />
+  <book code="MIC" abbr="मीखा" short="मीखा" long="मीखा" />
+  <book code="NAM" abbr="नहू." short="नहू." long="नहूम" />
+  <book code="HAB" abbr="हब." short="हब." long="हबक्कूक" />
+  <book code="ZEP" abbr="सफ." short="सफ." long="सफन्या" />
+  <book code="HAG" abbr="हाग्ग." short="हाग्ग." long="हाग्गय" />
+  <book code="ZEC" abbr="जख." short="जख." long="जखऱ्या" />
+  <book code="MAL" abbr="मला." short="मला." long="मलाखी" />
+  <book code="JHN" abbr="योहा." short="योहा." long="योहानकृत शुभवर्तमान" />
+  <book code="ROM" abbr="रोम." short="रोम." long="रोमकरांस पत्र" />
+  <book code="1CO" abbr="1 करिं." short="1 करिं." long="करिंथकरांस पहिले पत्र" />
+  <book code="2CO" abbr="2 करिं." short="2 करिं." long="करिंथकरांस दुसरे पत्र" />
+  <book code="GAL" abbr="गल." short="गल." long="गलतीकरांस पत्र" />
+  <book code="PHP" abbr="फिलि." short="फिलि." long="फिलिप्पैकरांस पत्र" />
+  <book code="COL" abbr="कल." short="कल." long="कलस्सैकरांस पत्र" />
+  <book code="PHM" abbr="फिले." short="फिले." long="फिलेमानाला पत्र" />
+  <book code="HEB" abbr="इब्री." short="इब्री." long="इब्री लोकांस पत्र" />
+  <book code="JAS" abbr="याको." short="याको." long="याकोबाचे पत्र" />
+  <book code="1PE" abbr="1 पेत्र." short="1 पेत्र." long="पेत्राचे पहिले पत्र" />
+  <book code="2PE" abbr="2 पेत्र." short="2 पेत्र." long="पेत्राचे दुसरे पत्र" />
+  <book code="1JN" abbr="1 योहा." short="1 योहा." long="योहानाचे पहिले पत्र" />
+  <book code="2JN" abbr="2 योहा." short="2 योहा." long="योहानाचे दुसरे पत्र" />
+  <book code="3JN" abbr="3 योहा." short="3 योहा." long="योहानाचे तिसरे पत्र" />
+  <book code="JUD" abbr="यहू." short="यहू." long="यहूदाचे पत्र" />
+  <book code="TOB" abbr="" short="" long="" />
+  <book code="JDT" abbr="" short="" long="" />
+  <book code="ESG" abbr="" short="" long="" />
+  <book code="WIS" abbr="" short="" long="" />
+  <book code="SIR" abbr="" short="" long="" />
+  <book code="BAR" abbr="" short="" long="" />
+  <book code="LJE" abbr="" short="" long="" />
+  <book code="S3Y" abbr="" short="" long="" />
+  <book code="SUS" abbr="" short="" long="" />
+  <book code="BEL" abbr="" short="" long="" />
+  <book code="1MA" abbr="" short="" long="" />
+  <book code="2MA" abbr="" short="" long="" />
+  <book code="3MA" abbr="" short="" long="" />
+  <book code="4MA" abbr="" short="" long="" />
+  <book code="1ES" abbr="" short="" long="" />
+  <book code="2ES" abbr="" short="" long="" />
+  <book code="MAN" abbr="" short="" long="" />
+  <book code="PS2" abbr="" short="" long="" />
+  <book code="ODA" abbr="" short="" long="" />
+  <book code="PSS" abbr="" short="" long="" />
+  <book code="JSA" abbr="" short="" long="" />
+  <book code="JDB" abbr="" short="" long="" />
+  <book code="TBS" abbr="" short="" long="" />
+  <book code="SST" abbr="" short="" long="" />
+  <book code="DNT" abbr="" short="" long="" />
+  <book code="BLT" abbr="" short="" long="" />
+  <book code="3ES" abbr="" short="" long="" />
+  <book code="EZA" abbr="" short="" long="" />
+  <book code="5EZ" abbr="" short="" long="" />
+  <book code="6EZ" abbr="" short="" long="" />
+  <book code="DAG" abbr="" short="" long="" />
+  <book code="PS3" abbr="" short="" long="" />
+  <book code="2BA" abbr="" short="" long="" />
+  <book code="LBA" abbr="" short="" long="" />
+  <book code="JUB" abbr="" short="" long="" />
+  <book code="ENO" abbr="" short="" long="" />
+  <book code="1MQ" abbr="" short="" long="" />
+  <book code="2MQ" abbr="" short="" long="" />
+  <book code="3MQ" abbr="" short="" long="" />
+  <book code="REP" abbr="" short="" long="" />
+  <book code="4BA" abbr="" short="" long="" />
+  <book code="LAO" abbr="" short="" long="" />
+  <book code="XXA" abbr="" short="" long="" />
+  <book code="XXB" abbr="" short="" long="" />
+  <book code="XXC" abbr="" short="" long="" />
+  <book code="XXD" abbr="" short="" long="" />
+  <book code="XXE" abbr="" short="" long="" />
+  <book code="XXF" abbr="" short="" long="" />
+  <book code="XXG" abbr="" short="" long="" />
+  <book code="FRT" abbr="" short="" long="" />
+  <book code="BAK" abbr="" short="" long="" />
+  <book code="OTH" abbr="" short="" long="" />
+  <book code="INT" abbr="" short="" long="" />
+  <book code="CNC" abbr="" short="" long="" />
+  <book code="GLO" abbr="" short="" long="" />
+  <book code="TDX" abbr="" short="" long="" />
+  <book code="NDX" abbr="" short="" long="" />
+  <book code="***" abbr="" short="" long="" />
+</BookNames>

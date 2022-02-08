@@ -1,0 +1,22 @@
+{
+    "meta_data": {
+        "Content Type": "Bible",
+        "Public Domain": "Yes",
+        "Version Name(in Eng)": "Tamil - Indian Revised Version",
+        "Version Name(in GL)": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd - \u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd \u0bb0\u0bc0\u0bb5\u0bc8\u0bb8\u0bcd\u0b9f\u0bc1 \u0bb5\u0bc7\u0bb0\u0bcd\u0bb7\u0ba9\u0bcd",
+        "Abbreviation": "TAM-IRV",
+        "Language Name": "Tamil",
+        "Language Code": "TAM",
+        "Publishing Year": "2019",
+        "Source (Name & Year)": "Wycliffe Associates - 2017",
+        "Revision (Name & Year)": "unfoldingWord - 2018",
+        "OT URL": "https://git.door43.org/BCS-BIBLE/TAMIL-ULB-OT.BCS",
+        "NT URL": "https://git.door43.org/BCS-BIBLE/Tamil-ULB-NT.BCS",
+        "License": "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)",
+        "License URL": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "Description": "Revision of existing public domain bible 1947",
+        "Copyright Holder": "Unfolding Word",
+        "Technology Partner": "Bridge Connectivity Solutions",
+        "Contact": "info@bridgeconn.com"
+    }
+}
