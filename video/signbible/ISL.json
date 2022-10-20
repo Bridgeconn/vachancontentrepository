@@ -1,44 +1,25 @@
 {
   "books": {
-    "mrk": {
-      "1": [
-        {
-          "title": "Overview: Mark 1" ,
-          "description": "Watch our overview video on the book of Mark, which breaks down the literary design of the book and its flow of thought. Mark demonstrates that Jesus is Israel's Messiah who inaugurates God’s kingdom through his suffering, death, and resurrection.",
-          "url": "https://youtu.be/HGHqu9-DtXk"
-        },
-        {
-          "title": "Overview: Mark 1",
-          "description": "Watch our overview video on the book of Mark, which breaks down the literary design of the book and its flow of thought. Mark demonstrates that Jesus is Israel's Messiah who inaugurates God’s kingdom through his suffering, death, and resurrection.",
-          "url": "https://youtu.be/_TzdEPuqgQg"
-        }
-      ]
-    },
     "tit": {
       "1": [
         {
-          "title": "Overview: Titus 1",
-          "description": "Watch our overview video on the book of Titus, which breaks down the literary design of the book and its flow of thought. In Titus, Paul commissions Titus to show how the good news of Jesus and the power of the Spirit can transform the Cretan culture from within.",
-          "url": "https://youtu.be/PUEYCVXJM3k"
+          "title": "Titus 1",
+          "description": "Titus 1:1-16 Paul explains Titus's Responsibility in Crete Island",
+          "url": "https://youtu.be/pcaZRtDZtaU"
         }
       ],
       "2": [
         {
-          "title": "Overview: Titus 2",
-          "description": "Watch our overview video on the book of Titus, which breaks down the literary design of the book and its flow of thought. In Titus, Paul commissions Titus to show how the good news of Jesus and the power of the Spirit can transform the Cretan culture from within.",
-          "url": "https://youtu.be/QpnIrbq2bKo"
-        },
-        {
-          "title": "Overview: Titus 2",
-          "description": "Watch our overview video on the book of Titus, which breaks down the literary design of the book and its flow of thought. In Titus, Paul commissions Titus to show how the good news of Jesus and the power of the Spirit can transform the Cretan culture from within.",
-          "url": "https://youtu.be/6UoCmakZmys"
+          "title": "Titus 2",
+          "description": "Titus 2:1-15 Titus Must Teach the Word of God Truly to the Believer",
+          "url": "https://youtu.be/CSlCD9QUciA"
         }
       ],
       "3": [
         {
-          "title": "Overview: Titus 3",
-          "description": "Watch our overview video on the book of Titus, which breaks down the literary design of the book and its flow of thought. In Titus, Paul commissions Titus to show how the good news of Jesus and the power of the Spirit can transform the Cretan culture from within.",
-          "url": "https://youtu.be/PUEYCVXJM3k"
+          "title": "Titus 3",
+          "description": "Titus 3:1-15 How a Believer's Life Must Show Good Example to the People?",
+          "url": "https://youtu.be/PU9mB_jwZI4"
         }
       ]
     }
