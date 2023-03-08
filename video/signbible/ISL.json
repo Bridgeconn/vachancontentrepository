@@ -1,5 +1,385 @@
 {
   "books": {
+    "gen": {
+      "1": [
+        {
+          "title": "Introduction",
+          "description": "Genesis which means beginning. It tells the story of how the world began and how God created all things, including animals of different kind and human beings both male and female.Moses,the Prophet,and the leader of Israel was an author of Pentateuch.The first book is Genesis.He wrote Genesis, Exodus, Leviticus, Numbers and Deuteronomy.All together known as Torah which means law.Bible doesn’t tell exactly when and where Genesis was written, but it was probably written by Moses during the years of Israelites encampment in the wilderness at Sinai.And it may be written to early Israelites after their Exodus from slavery in Egypt before they entered to the land of Canaan.",
+          "url":"https://youtu.be/jKWvRvfEVzg"
+        },
+        {
+          "title": "Genesis 1",
+          "description": "00:09 The Creation of Earth and Sky, 01:23 Light- The First Day, 02:00 Sky- The Second Day, 02:50 Dry Land, Trees, Flowers and All the Plants – The Third Day, 04:16 Moon, Stars, and Sun- The Fourth Day, 05:58 Fishes and Birds of Different Kind- The Fifth Day, 07:04 Animals and Humans (Male and Female) – The Sixth Day",
+          "url": "https://youtu.be/cE5aSbzJNgM"
+        }
+      ],
+      "2":[
+        {
+        "title": "Genesis 2",
+          "description": "00:10 Rest – The Seventh Day, 00:50 Creation of Eden Garden and Creation of First Man, 05:02 The First Man and The First Woman were Created for a Right Match",
+          "url": "https://youtu.be/EQ6NU0YelSw"
+        }
+      ],
+      "3":[
+        {
+        "title": "Genesis 3",
+          "description": "00:10 The Beginning of Sin",
+          "url": "https://youtu.be/ednkK_gcIiw"
+        }
+      ],
+      "4":[
+        {
+        "title": "Genesis 4",
+          "description": "00:10 The First Family, 01:05 The First Murder, 04:15 Cain’s Descendant’s Story, 07:10 Adam and Even Again Have a Son",
+          "url": "https://youtu.be/16LDgRQYbnk"
+        }
+      ],
+      
+      "5":[
+        {
+        "title": "Genesis 5",
+          "description": "00:10 Adam’s Descendants",
+          "url": "https://youtu.be/Z1qulGnXBxw"
+        }
+      ],
+      "6":[
+        {
+        "title": "Genesis 6",
+          "description": "00:12 God Saw that People, Animal and Everything on the Earth Become Wicked., 02:35 Noah’s Family and Animals with him are Saved in the Great Flood.",
+          "url": "https://youtu.be/_hydPXcZ9RQ"
+        }
+      ],
+      "7": [
+        {
+          "title": "Genesis 7",
+          "description": "00:10 Ark and the Beginning of Flood",
+          "url":"https://youtu.be/WDqUuPHbNT4"
+        }
+      ],
+      "8": [
+        {
+          "title": "Genesis 8",
+          "description": "00:11 Ark and the Water Recedes, 04:20 Noah Chooses Each Kind of Clean Animals and Offer Sacrifices to God.",
+          "url": "https://youtu.be/sZqVX-dGmp4"
+        }
+      ],
+      "9":[
+        {
+        "title": "Genesis 9",
+          "description": "00:10 God’s Promise Shown to Noah, 04:26 Noah’s Family Has Problem",
+          "url": "https://youtu.be/giL1Y7tui20"
+        }
+      ],
+      "10":[
+        {
+        "title": "Genesis 10",
+          "description": "00:10 Noah’s Descendants Story",
+          "url": "https://youtu.be/11PfzFoL5os"
+        }
+      ],
+      "11":[
+        {
+        "title": "Genesis 11",
+          "description": "00:09 Tower of Babel, 02:26 Shem’s Descendants Story, 05:26 Terah’s Family Story",
+          "url": "https://youtu.be/5NiYpwwU-ko"
+        }
+      ],
+      "12":[
+        {
+        "title": "Genesis 12",
+          "description": "00:10 God Calls Abram, 01:19 Abram and His Family Goes to Canaan, 04:04 Abram and Sarai Went to Live in Egypt for a While",
+          "url": "https://youtu.be/9TNJfvTLhR4"
+        }
+      ],
+      "13":[
+        {
+        "title": "Genesis 13",
+          "description": "00:09 Abram Returns to the Land of Canaan, 01:24 Abram and Lot Separate,Key moments",
+          "url": "https://youtu.be/uOzHlkU3U2U"
+        }
+      ],
+      "14": [
+        {
+          "title": "Genesis 14",
+          "description": "00:11 Lot Was Captured During the Time of War, 06:53 Abraham Goes and Rescues Lot, 08:58 Melchizedek is a King and a Priest",
+          "url": "https://youtu.be/qlERNF0mCDQ"
+        }
+      ],
+      "15":[
+        {
+        "title": "Genesis 15",
+          "description": "00:10 God Promised Abraham to Give Land and Many Descendants",
+          "url": "https://youtu.be/1khBf1bUhRw"
+        }
+      ],
+      "16":[
+        {
+        "title": "Genesis 16",
+          "description": "00:11 Sarah Has Problem with Hagar, 01:53 LORD’s Angel Appeared to Hagar",
+          "url": "https://youtu.be/dl-9jDJxJpg"
+        }
+      ],
+      "17":[
+        {
+        "title": "Genesis 17",
+          "description": "00:10 God’s Agreement and Promise with Abraham",
+          "url": "https://youtu.be/8bqHkrZt_GA"
+        }
+      ],
+      "18":[
+        {
+        "title": "Genesis 18",
+          "description": "00:11 Abraham Welcomes Three Men to His Home, 03:35 Abraham Request God to Change His Plan",
+          "url": "https://youtu.be/5cZlSCeDV1w"
+        }
+      ],
+      "19":[
+        {
+        "title": "Genesis 19",
+          "description": "00:10 Lot Welcomes Two Angels to His Home, 03:19 Angels Help Lot to Escape from Sodom, 06:15 God Destroyed Sodom and Gomorrah, 08:00 Lot and His Daughters",
+          "url": "https://youtu.be/6riEUPJzqIA"
+        }
+      ],
+      "20": [
+        {
+          "title": "Genesis 20",
+          "description": "00:10 Abraham Lies to Abimelech",
+          "url":"https://youtu.be/HsOGJ-38uvc"
+        }
+      ],
+      "21": [
+        {
+          "title": "Genesis 21",
+          "description": "00:11 God Blesses Sarah with a Child, 01:45 Hagar and Ishmael were Sent Away, 04:59 Abraham and Abimelech Make an Agreement",
+          "url": "https://youtu.be/m2xlc5_T8Hw"
+        }
+      ],
+      "22":[
+        {
+        "title": "Genesis 22",
+          "description": "00:11 God wants to Test How Much Abraham’s Faith Is, 05:35 Abraham Heard What Happen to His House",
+          "url": "https://youtu.be/LPveVEFNnqg"
+        }
+      ],
+      "23":[
+        {
+        "title": "Genesis 23",
+          "description": "00:11 Sarah Dies and Abraham Buries her",
+          "url": "https://youtu.be/Ag4wOIxjG2s"
+        }
+      ],
+      "24":[
+        {
+        "title": "Genesis 24",
+          "description": "00:11 Searching a Wife for Isaac",
+          "url": "https://youtu.be/4iUkJc-IeyU"
+        }
+      ],
+      "25":[
+        {
+        "title": "Genesis 25",
+          "description": "00:11 Abraham Became Old and Died, 03:26 Ishmael’s Descendants, 06:04 Isaac’s Descendants",
+          "url": "https://youtu.be/oaKF4g5GkY4"
+        }
+      ],
+      "26":[
+        {
+        "title": "Genesis 26",
+          "description": "00:13 Isaac Lies to Abimelech, 03:26 Isaac’s Successes Makes People Jealous and Trouble, 10:11 Esau’s Wives",
+          "url": "https://youtu.be/02l2l8mFUTA"
+        }
+      ],
+      
+       "27":[
+        {
+        "title": "Genesis 27",
+          "description": "00:14 Jacob Lies Isaac., 09:33 Jacob Leaves the Country",
+          "url": "https://youtu.be/e4p2CILG2Qg"
+        }
+      ],
+       "28":[
+        {
+        "title": "Genesis 28",
+          "description": "00:13 Jacob Left the Place and he had a Dream at Bethel",
+          "url": "https://youtu.be/VUcNBS22WRI"
+        }
+      ]
+    },
+    "luk": {
+      "1":[
+        {
+          "title": "Introduction",
+          "description": "The Gospel of Luke is consisting of 24 chapters and is written by Luke, a physician, and a Gentile.He was a close companion of the Apostle Paul in his missionary journey also remained with Paul during Paul’s imprisonment in Rome.When and where; Luke began writing his account on Jesus probably at Caesarea and finished it in Rome between AD 65 and 70.Luke was a Greek, a gentile, therefore, he has written his gospel in a way that gentiles (non-Jew) would easily understand.In addition to this gospel Luke also wrote the book of Acts. Luke was a physician, missionary (associated with Paul in his mission) and above all, a historian. He was very careful both in his gospel and in the book of Acts to give accurate historical details.Luke wrote this historical account on Jesus to Theophilus probably a Roman official to establish him in the faith in Jesus Christ. Theophilus was a believer and then the purpose of the book was edification of the saint.Luke presents Jesus as ‘Son of Man’ ‘Perfect man’ and the key words in this gospel is ‘Salvation’ and ‘Son of Man’.Key verses:   2 :15,  4 :18-19,  19:10 ,Key chapters: 1, 4, 15 & 19",
+          "url": "https://youtu.be/P6RCmVdf8A0"
+        },
+        {
+        "title": "Luke 1",
+          "description": "00:15 This is the good news about Jesus that Luke wrote, Luke writes the life of Jesus, 01:58 An angel announces the birth of John the Baptist, 09:44 An angel announces the birth of the saviour, 13:50 Mary visits Elizabeth, 15:32 Mary praises God, 19:19 The birth of John the Baptist, 21:48 Zachariah praises God",
+          "url": "https://youtu.be/02sGYNaUKVc"
+        }
+      ],
+      "2":[
+        {
+        "title": "Luke 2",
+          "description": "00:15 Mary gave birth to the saviour, 03:08 Angels tell shepherds about Jesus’ birth and the shepherds visit him, 07:12 Joseph and Mary present Jesus in the temple, 08:29 Simeon saw Jesus and prophesied about him, 12:34 Anna thanked God for Jesus and told others about him, 15:18 The boy Jesus at the temple",
+          "url": "https://youtu.be/lzXuGooJ0cQ"
+        }
+      ],
+      "3":[
+        {
+        "title": "Luke 3",
+        "description": "00:14 John the Baptist prepares the way for Lord Jesus, 09:34 Jesus is Baptized by John the Baptist, 10:29 The family history of Jesus",
+        "url": "https://youtu.be/ICdUi9RjRjg"
+        }
+      ],
+      "4":[
+        {
+        "title": "Luke 4",
+        "description": "00:14 Jesus is tempted by the Devil, 04:20 Jesus begins His work in Galilee and rejected at Nazareth, 10:48 Jesus frees a man from an evil spirit, 12:44 Jesus heals Peter’s mother-in-law, 13:45 Jesus heals many others and goes to other towns",
+          "url": "https://youtu.be/ry_gdQe-Vto"
+        }
+      ],
+      "5":[
+        {
+        "title": "Luke 5",
+          "description": "00:14 Jesus calls His first disciples, 00:50 Jesus heals a Man With Leprosy, 07:07 Jesus forgives and heals a paralyzed man, 12:12 Jesus Calls Levi (Matthew), 14:19 Jesus Questioned About Fasting",
+          "url": "https://youtu.be/ypNKg-Ez-u4"
+        }
+      ],
+      "6":[
+        {
+          "title":"Luke 6",
+          "description":"00:15 Jesus is Lord of the Sabbath day, 04:20 Jesus choses His twelve Apostles, 07:00 Jesus heals a great multitude, 08:33 Jesus teaches people how to be His disciple?",
+          "url":"https://youtu.be/1mhoqRQceW4"
+        }
+      ],
+      "7":[
+        {
+          "title":"Luke 7",
+          "description":"00:14 Jesus heals an army officer’s servant, 04:02 Jesus brings a woman’s son back to life, 06:24 John the Baptist sent two followers to ask Jesus a question, 14:02 A woman honors Jesus in a pharisee’s house",
+          "url":"https://youtu.be/14far9GMczo"
+        }
+      ],
+      "8":[
+        {
+          "title":"Luke 8",
+          "description":"00:13 The parable of a sower, 06:13 A lamp on a stand, 07:32 Jesus’ mother and brothers, 08:22 Jesus calms the storm, 10:11 Jesus frees a man from evil spirits, 15:29 Jesus raises a dead girl and heals a sick woman",
+          "url":"https://youtu.be/hWgMS2E9Fdw"
+        }
+      ],
+      "9":[
+        {
+          "title":"Luke 9",
+          "description":"00:14 Jesus sent his twelve apostles to preach and heal people, 02:25 King Herod is confused about Jesus, 03:34 Jesus did a miracle to feed more than five thousand people, 06:42 Peter declared that Jesus is the Christ, 07:50 Jesus Predicts His Death, 10:30 Three disciples see Jesus’ glory, 13:29 Jesus expels an evil spirit from a boy, 15:55 Jesus talks about His death a second time, 16:49 Jesus tells his disciples that they must be humble, 17:40 Jesus tells whoever is not against Him is with Him, 18:27 The people of a Samaritan village refused to receive Jesus, 20:23 Following Jesus",
+          "url":"https://youtu.be/-RXQUPUWckQ"
+        }
+      ],
+      "10":[
+        {
+          "title":"Luke 10",
+          "description":"00:12 Jesus sent out seventy disciples, 10:51 The Parable of the Good Samaritan, 14:56 Jesus visits Martha and Mary at their home",
+          "url":"https://youtu.be/qTeRkXOGmME"
+        }
+      ],
+      "11":[
+        {
+          "title":"Luke 11",
+          "description":"00:14 Jesus taught His disciple about prayer, 04:26 Who gave power to Jesus?, 07:59 Jesus warned that an evil spirit may possess someone again, 09:13 Jesus taught about how to be truly happy, 09:59 Some people doubt Jesus’ authority, 13:36 Jesus taught about light and darkness, 14:51 Jesus criticized the Pharisees and the teachers of the law",
+          "url":"https://youtu.be/pu-6SGofHpE"
+        }
+      ],
+      "12":[
+        {
+          "title":"Luke 12",
+          "description":"00:14 Jesus warned & encouraged His disciples, 04:36 Jesus warns the people not to be greedy, 07:29 Jesus encouraged his disciples to trust God to care for them, 12:17 Jesus’ servants should be watchful and faithful, 16:45 Jesus’ message will cause divisions among people, 18:28 Jesus told the people to prepare for what was about to happen",
+          "url":"https://youtu.be/02OvmDCsC5Q"
+        }
+      ],
+      "13":[
+        {
+          "title":"Luke 13",
+          "description":"00:14 Call to repent, 02:16 The parable about a fig tree that did not bear fruit, 03:45 Jesus healed a crippled woman on the Sabbath Day, 06:14 Jesus compares the kingdom of God to a mustard seed and to yeast, 07:79 The entrance to the kingdom of God is like a narrow door, 11:14 Jesus grieved for the people in Jerusalem",
+          "url":"https://youtu.be/N-MU3htWGcQ"
+        }
+      ],
+      "14":[
+        {
+          "title":"Luke 14",
+          "description":"00:12 Jesus healed a sick man on the Sabbath, 01:43 Jesus teaches about humility, 04:33 Jesus told a parable about a great feast, 07:33 A disciple of Jesus must be ready to suffer for Him",
+          "url":"https://youtu.be/GdOPXW6Jvns"
+        }
+      ],
+      "15":[
+        {
+          "title":"Luke 15",
+          "description":"00:12 Parable of the lost sheep, 02:17 Parable of the lost coin, 03:17 Parable of the lost son",
+          "url":"https://youtu.be/3hpt8MHjmjA"
+        }
+      ],
+      "16":[
+        {
+          "title":"Luke 16",
+          "description":"00:12 Parable of the Shrewd Manager, 05:24 God’s Law Cannot Be Changed, 07:28 Parable of the rich man and Lazarus",
+          "url":"https://youtu.be/VeOhfoGC0c8"
+        }
+      ],
+      "17":[
+        {
+          "title":"Luke 17",
+          "description":"00:13 Jesus taught his disciples about sin, faith, and duty, 04:06 Jesus healed ten lepers, 06:36 The coming of the Kingdom of God",
+          "url":"https://youtu.be/AzKG0XxxLe0"
+        }
+      ],
+      "18":[
+        {
+          "title":"Luke 18",
+          "description":"00:12 The parable of the persistent widow , 02:44 The parable of the Pharisee and Tax collector, 04:58 Jesus welcomes children, 06:13 It is hard for rich people to enter God’s kingdom, 10:01 Jesus talks again about His death, 11:28 Jesus gives sight to a blind man",
+          "url":"https://youtu.be/aGQ_vVhmL8Y"
+        }
+      ],
+      "19":[
+        {
+          "title":"Luke 19",
+          "description":"00:12 Jesus at Zacchaeus, the tax collector’s house, 03:17 Jesus told a parable about a king and his ten servants, 09:26 Jesus enters Jerusalem like a King, 14:33 Jesus expelled sellers from the temple courtyard",
+          "url":"https://youtu.be/M8dpENyiILc"
+        }
+      ],
+      "20":[
+        {
+          "title":"Luke 20",
+          "description":"00:12 Jewish leaders questioned Jesus’ authority, 02:38 Jesus told a parable about some evil farmers, 07:31 Jewish leaders tried to trap Jesus with a question about taxes, 09:39 Some Sadducees try to trick Jesus, 13:28 Whose son is the Messiah, 14:25 Jesus warned His disciples about the teachers of the Law",
+          "url":"https://youtu.be/4j9ukHpcLdk"
+        }
+      ],
+      "21":[
+        {
+          "title":"Luke 21",
+          "description":"00:13 The widow’s offering, 01:29 The destruction of the temple in Jerusalem and signs of the end time, 09:18 Jesus' words will last forever, 10:40 Jesus warns His disciples to be ready all the time",
+          "url":"https://youtu.be/FBTizAavC2s"
+        }
+      ],
+      "22":[
+        {
+          "title":"Luke 22",
+          "description":"00:14 Judas told the Jewish leaders that he would betray Jesus to them, 01:56 Jesus sent two disciples to prepare for the Passover celebration, 03:48 The Lord’s supper, 06:54 Jesus taught his apostles about greatness, 09:27 Jesus predicted that Peter would deny him, 10:38 Jesus tells His disciples to be ready for trouble, 12:25 Jesus prays alone in a garden called Gethsemane, 14:31 Judas helped Jesus’ enemies to find him and arrest him, 16:43 Peter denies Jesus, 18:55 The guards mistreated Jesus, 19:40 Jewish leaders question Jesus",
+          "url":"https://youtu.be/AOea26-rYTk"
+        }
+      ],
+      "23":[
+        {
+          "title":"Luke 23",
+          "description":"00:14 Governor Pilate questions Jesus, 02:05 Pilate sends Jesus to King Herod, 04:15 Jesus was sentenced to death, 07:42 Soldiers nailed Jesus to a cross, 14:27 The death of Jesus, 16:23 Jesus is buried in tomb",
+          "url":"https://youtu.be/TbS6rQGLSr4"
+        }
+      ],
+      "24":[
+        {
+          "title":"Luke 24",
+          "description":"00:14 Jesus has risen from the death, 03:16 Jesus came to two disciples on the road to Emmaus, 09:51 Jesus appeared to his followers, 11:28 You are my witness, 13:35 Jesus goes back to Heaven",
+          "url":"https://youtu.be/GSRodcsUNH8"
+        }
+      ]  
+    },
     "mrk": {
       "1": [
         {
