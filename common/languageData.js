@@ -1,4 +1,4 @@
-export const languageJson = [
+[
   { language: "assamese", languageName: "অসমীয়া", langCode: "asm" },
   { language: "bengali", languageName: "বাঙালি", langCode: "ben" },
   { language: "bilaspuri", languageName: "बिलासपुरी", langCode: "bil" },
@@ -26,4 +26,4 @@ export const languageJson = [
   { language: "telugu", languageName: "తెలుగు", langCode: "tel" },
   { language: "urdu", languageName: "उर्दू", langCode: "urd" },
   { language: "varli-davri", languageName: "વારલી", langCode: "vav" },
-];
+]
