@@ -5,7 +5,7 @@
   { "language": "gujarati", "languageName": "ગુજરાતી", "langCode": "guj" },
   { "language": "hindi", "languageName": "हिंदी", "langCode": "hin" },
   { "language": "hmar", "languageName": "Hmar", "langCode": "hmr" },
-  { "language": "indian sign language", "languageName": "Indian Sign Language", "langCode": "isl" },
+  { "language": "indian sign language", "languageName": "ISL", "langCode": "isl" },
   { "language": "kannada", "languageName": "ಕನ್ನಡ", "langCode": "kan" },
   { "language": "mizo", "languageName": "Mizo", "langCode": "lus" },
   { "language": "malayalam", "languageName": "മലയാളം", "langCode": "mal" },
